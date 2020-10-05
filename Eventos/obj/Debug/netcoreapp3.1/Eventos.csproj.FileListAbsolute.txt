@@ -1,0 +1,13 @@
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\obj\Debug\netcoreapp3.1\Eventos.csprojAssemblyReference.cache
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\obj\Debug\netcoreapp3.1\Eventos.AssemblyInfoInputs.cache
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\obj\Debug\netcoreapp3.1\Eventos.AssemblyInfo.cs
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\obj\Debug\netcoreapp3.1\Eventos.csproj.CoreCompileInputs.cache
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\bin\Debug\netcoreapp3.1\Eventos.exe
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\bin\Debug\netcoreapp3.1\Eventos.deps.json
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\bin\Debug\netcoreapp3.1\Eventos.runtimeconfig.json
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\bin\Debug\netcoreapp3.1\Eventos.runtimeconfig.dev.json
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\bin\Debug\netcoreapp3.1\Eventos.dll
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\bin\Debug\netcoreapp3.1\Eventos.pdb
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\obj\Debug\netcoreapp3.1\Eventos.dll
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\obj\Debug\netcoreapp3.1\Eventos.pdb
+D:\Semestre 2\EvaluacionMomento1 Lenguaje\Eventos\obj\Debug\netcoreapp3.1\Eventos.genruntimeconfig.cache
